@@ -1,0 +1,22 @@
+{
+  "wheel_id": 528,
+  "structure": "umbrella",
+  "slug": "retainingwallsperth-153",
+  "project": "retaining-wall-contractors-perth-d8ca7d44d522b274bcda163003e71d",
+  "parent_t1_ref": "retainingwallsperth-007",
+  "node_role": "buffer",
+  "money_target": "retainingwallsperth.au",
+  "primary_kw": "retaining wall contractors perth",
+  "intended_url": "https://sitesau.github.io/retainingwallsperth-153/",
+  "tier": "T2",
+  "writeback_nonce": "b657d9f02ee628a7",
+  "links": [
+    {
+      "target_url": "https://retaining-wall-contractors-perth-retainingwallsperth-007-ddf25a.gitlab.io/",
+      "anchor": "Retaining Wall Contractors Perth: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
